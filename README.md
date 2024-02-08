@@ -16,7 +16,8 @@ Ein gemeinnütziger Verein mit Sitz in Petershagen/Eggersdorf.
 ## Links
 
 - [hacrafu.de](https://www.hacrafu.de/)
-- [Twitter](https://twitter.com/HaCraFu)
+- [Bluesky](https://bsky.app/profile/hacrafu.bsky.social)
+- [Twitter / X](https://twitter.com/HaCraFu)
 - [Reddit](https://www.reddit.com/r/hacrafu/)
 - [Instagram](https://www.instagram.com/hacrafu/)
 - [Github](https://github.com/HaCraFu)
