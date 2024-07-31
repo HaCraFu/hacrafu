@@ -247,7 +247,9 @@ Die Mitgliederversammlung kann einzelne Vorstandsmitglieder abberufen, sofern zu
 
 ### Beschlussprotokoll
 
-Über jeden Beschluss des Vorstands fertigt dieser ein Protokoll an und verkündet dieses elektronisch in Textform auf einer Webseite, die den Mitgliedern aller Organe des Vereins bekanntgegeben und zugänglich ist.§8 Auflösung
+Über jeden Beschluss des Vorstands fertigt dieser ein Protokoll an und verkündet dieses elektronisch in Textform auf einer Webseite, die den Mitgliedern aller Organe des Vereins bekanntgegeben und zugänglich ist.
+
+## §8 Auflösung
 
 ### Vermögen
 
